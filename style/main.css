@@ -15,12 +15,12 @@ nav {
       -ms-flex-align: center;
           align-items: center;
   min-height: 7vh;
-  background-color: #3f3838;
+  background-color: #222831;
   font-family: 'Montserrat', sans-serif;
 }
 
 .logo {
-  color: #fffbca;
+  color: #00ADB5;
   text-transform: uppercase;
   letter-spacing: 5px;
   font-size: 20px;
@@ -40,7 +40,7 @@ nav {
 }
 
 .nav-links a {
-  color: #fffbca;
+  color: #00ADB5;
   text-decoration: none;
   letter-spacing: 3px;
   font-weight: bold;
@@ -55,7 +55,7 @@ nav {
 .legit div {
   width: 25px;
   height: 3px;
-  background-color: #fffbca;
+  background-color: #00ADB5;
   margin: 5px;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
@@ -76,7 +76,7 @@ nav {
     right: 0px;
     height: 93vh;
     top: 7vh;
-    background-color: #3f3838;
+    background-color: #222831;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
